@@ -1,0 +1,12 @@
+{
+  "id": "builtin.theme-palenight",
+  "name": "Palenight Theme",
+  "description": "An elegant and juicy material-inspired theme for Visual Studio Code.",
+  "colorThemes": [
+    {
+      "id": "palenight",
+      "label": "Palenight",
+      "path": "color-theme.json"
+    }
+  ]
+}
