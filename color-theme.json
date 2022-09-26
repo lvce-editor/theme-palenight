@@ -80,7 +80,7 @@
     },
     {
       "name": "String",
-      "foreground": "#80CBC4"
+      "foreground": "#c3e88d"
     },
     {
       "name": "PunctuationString",
@@ -117,6 +117,18 @@
     {
       "name": "Numeric",
       "foreground": "#f78c6c"
+    },
+    {
+      "name": "TagName",
+      "foreground": "#ff5572"
+    },
+    {
+      "name": "AttributeName",
+      "foreground": "#ffcb6b"
+    },
+    {
+      "name": "Heading",
+      "foreground": "#82b1ff"
     }
   ]
 }
