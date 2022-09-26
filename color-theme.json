@@ -29,6 +29,9 @@
 
     "MainBackground": "#292D3E",
 
+    "MenuBackground": "rgb(41, 45, 62)",
+    "MenuItemHoverBackground": "rgb(126, 87, 194)",
+
     "PanelBackground": "#292D3E",
     "PanelBorderTopColor": "#282B3C",
 
