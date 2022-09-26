@@ -149,6 +149,10 @@
     {
       "name": "Text",
       "foreground": "#bfc7d5"
+    },
+    {
+      "name": "JsonPropertyName",
+      "foreground": "#80cbc4"
     }
   ]
 }
