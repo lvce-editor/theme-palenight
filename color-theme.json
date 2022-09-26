@@ -11,9 +11,10 @@
     "ContextMenuBackground": "rgb(41, 45, 62)",
     "ContextMenuForeground": "rgba(255, 255, 255, 0.8)",
 
-    "EditorBackGround": "",
+    "EditorBackground": "",
     "EditorScrollBarBackground": "",
-    "EditorCursorBackground": "",
+    "EditorCursorBackground": "#7e57c2",
+    "EditorSelectionBackground": "rgba(117, 128, 184, 0.31)",
 
     "FocusOutline": "",
 
@@ -112,6 +113,10 @@
     {
       "name": "Comment",
       "foreground": "#697098"
+    },
+    {
+      "name": "Numeric",
+      "foreground": "#f78c6c"
     }
   ]
 }
