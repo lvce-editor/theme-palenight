@@ -129,6 +129,26 @@
     {
       "name": "Heading",
       "foreground": "#82b1ff"
+    },
+    {
+      "name": "CssPropertyName",
+      "foreground": "#80cbc4"
+    },
+    {
+      "name": "CssSelector",
+      "foreground": "#ff5572"
+    },
+    {
+      "name": "Query",
+      "foreground": "#c792ea"
+    },
+    {
+      "name": "KeywordReturn",
+      "foreground": "#C792EA"
+    },
+    {
+      "name": "Text",
+      "foreground": "#bfc7d5"
     }
   ]
 }
