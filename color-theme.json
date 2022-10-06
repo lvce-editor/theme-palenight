@@ -91,7 +91,11 @@
     },
     {
       "name": "JsonPropertyName",
-      "foreground": "#C3E88D"
+      "foreground": "#c3e88d"
+    },
+    {
+      "name": "JsonPropertyValueString",
+      "foreground": "#80cbc4"
     },
     {
       "name": "Keyword",
@@ -152,10 +156,6 @@
     {
       "name": "Text",
       "foreground": "#bfc7d5"
-    },
-    {
-      "name": "JsonPropertyName",
-      "foreground": "#80cbc4"
     }
   ]
 }
