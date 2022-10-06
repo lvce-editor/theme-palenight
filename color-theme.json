@@ -16,6 +16,8 @@
     "EditorCursorBackground": "#7e57c2",
     "EditorSelectionBackground": "rgba(117, 128, 184, 0.31)",
 
+    "ExtensionListItemActive": "#7e57c2",
+
     "FocusOutline": "",
 
     "InputBoxForeground": "rgba(255, 255, 255, 0.8)",
