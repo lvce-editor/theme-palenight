@@ -12,7 +12,7 @@
     "ContextMenuForeground": "rgba(255, 255, 255, 0.8)",
 
     "EditorBackground": "",
-    "EditorScrollBarBackground": "",
+    "EditorScrollBarBackground": "rgba(105, 76, 164, 0.4)",
     "EditorCursorBackground": "#7e57c2",
     "EditorSelectionBackground": "rgba(117, 128, 184, 0.31)",
 
