@@ -164,6 +164,14 @@
     {
       "name": "Text",
       "foreground": "#bfc7d5"
+    },
+    {
+      "name": "YamlPropertyName",
+      "foreground": "#89DDFF"
+    },
+    {
+      "name": "YamlPropertyValueString",
+      "foreground": "#BFC7D5"
     }
   ]
 }
