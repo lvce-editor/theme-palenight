@@ -172,6 +172,26 @@
     {
       "name": "YamlPropertyValueString",
       "foreground": "#BFC7D5"
+    },
+    {
+      "name": "Function",
+      "foreground": "#82AAFF"
+    },
+    {
+      "name": "KeywordThis",
+      "foreground": "#FF5370"
+    },
+    {
+      "name": "KeywordNew",
+      "foreground": "#C792EA"
+    },
+    {
+      "name": "KeywordControl",
+      "foreground": "#89DDFF"
+    },
+    {
+      "name": "KeywordReturn",
+      "foreground": "#89DDFF"
     }
   ]
 }
