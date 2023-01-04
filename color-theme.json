@@ -192,6 +192,10 @@
     {
       "name": "KeywordReturn",
       "foreground": "#89DDFF"
+    },
+    {
+      "name": "KeywordOperator",
+      "foreground": "#89DDFF"
     }
   ]
 }
