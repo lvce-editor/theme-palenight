@@ -196,6 +196,14 @@
     {
       "name": "KeywordOperator",
       "foreground": "#89DDFF"
+    },
+    {
+      "name": "KeywordFunction",
+      "foreground": "#C792EA"
+    },
+    {
+      "name": "Regex",
+      "foreground": "#80CBC4"
     }
   ]
 }
