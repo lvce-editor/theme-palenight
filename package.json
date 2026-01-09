@@ -3,7 +3,8 @@
   "version": "0.0.0-dev",
   "type": "module",
   "scripts": {
-    "dev": "node ./node_modules/@lvce-editor/server/bin/server.js --only-extension=. --theme=palenight"
+    "dev": "node ./node_modules/@lvce-editor/server/bin/server.js --only-extension=. --theme=palenight",
+    "lint": "eslint . && prettier --check ."
   },
   "author": "Lvce Editor",
   "license": "MIT",
