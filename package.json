@@ -1,6 +1,9 @@
 {
   "name": "theme-palenight",
   "version": "0.0.0-dev",
+  "categories": [
+    "Themes"
+  ],
   "type": "module",
   "scripts": {
     "dev": "node ./node_modules/@lvce-editor/server/bin/server.js --only-extension=. --theme=palenight",
